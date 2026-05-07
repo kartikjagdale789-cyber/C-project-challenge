@@ -1,0 +1,4 @@
+1. Create App Service in Azure Portal
+2. Publish from Visual Studio
+3. Select Azure App Service
+4. Deploy
